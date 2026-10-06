@@ -1,0 +1,23 @@
+src/test/kotlin/ai/blamely/authorship/AlignLinesTest.kt
+  s_3a4f6f532b0377::t_de86b5315855d0 41-91
+src/main/kotlin/ai/blamely/authorship/Attribute.kt
+  s_3a4f6f532b0377::t_2b3c39d07d45bc 159-164,199-202,207,209,247-311
+  s_3a4f6f532b0377::t_4a43286f1ed13a 244-246
+  s_3a4f6f532b0377::t_bd67ca66a94f20 312
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ee6fdc3621980860d6777d0540774e2c898338d9",
+  "prompts": {},
+  "sessions": {
+    "s_3a4f6f532b0377": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b0c8cfd-dcaa-42cd-9afc-8ab6a348ff12",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "AktasMuhammet <aktas.muhammet@outlook.com>"
+    }
+  }
+}
